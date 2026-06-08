@@ -1,6 +1,6 @@
-# SatguruKirana - Movie Discovery App
+# Movie Discovery App
 
-A modern, JioCinema/Hotstar-style movie discovery and streaming application built with React Native. Browse trending movies, search by title/genre/year, view detailed movie information, and watch trailers seamlessly.
+A modern, movie discovery and streaming application built with React Native. Browse trending movies, search by title/genre/year, view detailed movie information, and watch trailers seamlessly.
 
 Production-Ready React Native Application | TMDB API Integration | Professional UI/UX
 
@@ -9,7 +9,7 @@ Production-Ready React Native Application | TMDB API Integration | Professional 
 ## Features
 
 ### Home Screen
-- JioCinema/Hotstar-style Hero Carousel - Full-width auto-scrolling backdrop with movie details
+-  Hero Carousel - Full-width auto-scrolling backdrop with movie details
 - Multiple Content Carousels - Trending Now, Top Rated, and Upcoming movies
 - Pull-to-Refresh - Reload all content with a single gesture
 - Smooth Animations - Fade-in and slide-up effects using React Native Reanimated
@@ -92,7 +92,7 @@ Production-Ready React Native Application | TMDB API Integration | Professional 
 ## Project Structure
 
 ```
-SatguruKirana/
+MovieBrowser/
 ├── src/
 │   ├── assets/                  # Images, fonts, etc.
 │   ├── components/              # Reusable components
@@ -441,8 +441,4 @@ For issues or questions:
 
 ---
 
-## Ready to Submit
 
-Your app is production-ready. Follow the Git Setup and GitHub Push section to upload to GitHub, then submit the repository link to your company.
-
-Good luck!
