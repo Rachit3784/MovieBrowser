@@ -402,27 +402,6 @@ git push origin main
 
 ---
 
-## Submission Checklist
-
-Before submitting to company:
-
-- [ ] .env file created with your TMDB API key
-- [ ] .env file is in .gitignore (not committed)
-- [ ] .env.example exists in repository with template
-- [ ] All dependencies installed: npm install
-- [ ] App runs on Android: npm run android
-- [ ] App runs on iOS: npm run ios
-- [ ] README.md is complete and clear
-- [ ] Code is linted: npm run lint
-- [ ] All images load properly
-- [ ] Search with filters works
-- [ ] Trailer player works
-- [ ] Pull-to-refresh works
-- [ ] Caching is functional
-- [ ] GitHub repository is public
-- [ ] All commits pushed to main branch
-
----
 
 ## App Features Demo
 
